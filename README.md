@@ -2,14 +2,14 @@
 
 ### 🎓 CS Undergrad @ LUMS | 🧠 AI Researcher | 💻 Full Stack Engineer
 
-[cite_start]I am a Computer Science student at **Lahore University of Management Sciences (LUMS)** [cite: 4][cite_start], specializing in **Artificial Intelligence and Full Stack Development**[cite: 5]. I bridge the gap between theoretical ML research and production-grade software engineering.
+I am a Computer Science student at **Lahore University of Management Sciences (LUMS)** [cite: 4][cite_start], specializing in **Artificial Intelligence, Data Science and Full Stack Development**. I bridge the gap between theoretical ML research and production-grade software engineering.
 
 ---
 
 ## 🚀 What I'm Working On
 
-* [cite_start]**Generative AI Research:** Currently a Research Assistant at the **Center of Speech and Language Technologies**, working on Flash-aware LoRA and Knowledge Distillation pipelines to train small LMs from large reasoning models[cite: 9, 11, 13].
-* [cite_start]**Medical AI:** Developing **SensAI**, a React + Java tool for doctor-patient audio chunking and EMR auto-filling at the **Deosai MedTech/AIHI-LUMS Research Lab**[cite: 14, 16].
+* **Generative AI Research:** Currently a Research Assistant at the **Center of Speech and Language Technologies**, working on Flash-aware LoRA and Knowledge Distillation pipelines to train small LMs from large reasoning models[cite: 9, 11, 13].
+* **Medical AI:** Developing **Avatar**, a tool for 3D patient medical history at the **Deosai MedTech/AIHI-LUMS Research Lab**[cite: 14, 16].
 * [cite_start]**Agentic Workflows:** Previously prototyped autonomous agents (OpenAI/Agents SDK + n8n) at **Systems Limited** to automate web search and scheduling[cite: 24, 27].
 
 ---
