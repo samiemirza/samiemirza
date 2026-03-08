@@ -189,24 +189,6 @@ My work sits across two strong sides:
 
 </div>
 
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiemirza&theme=github_dark" width="85%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiemirza&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiemirza&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samiemirza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
