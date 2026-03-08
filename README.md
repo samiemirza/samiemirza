@@ -189,6 +189,7 @@ My work sits across two strong sides:
 
 </div>
 
+---
 
 ## 🎯 Current Focus
 
